@@ -92,6 +92,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::DrawEllipse(int(player.vertex.center.x), int(player.vertex.center.y), 16, 16, 0.0f, WHITE, kFillModeSolid);
 		VertexScreenPrintf(player, 50, 400);
 		mapCollisionTex;
+
+
 		///
 		/// ↑描画処理ここまで
 		///
