@@ -93,7 +93,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		VertexScreenPrintf(player, 50, 400);
 		mapCollisionTex;
 
-
+		/////
 		///
 		/// ↑描画処理ここまで
 		///
